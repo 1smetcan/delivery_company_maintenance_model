@@ -1,2 +1,2 @@
 # delivery_company_maintenance_model
-A predictive maintenance model for a delivery company to detect device failure based on different attributes.
+In this project, I aim to develop a predictive maintenance model for a delivery company to determine device failure based on nine key attributes. The dataset is highly imbalanced, with approximately 120,000 records for functioning devices and only 100 for failed ones. To address this, I will employ SMOTE to generate synthetic samples for failed devices, enabling balanced training. Various classification models will be evaluated to identify the most effective solution.
